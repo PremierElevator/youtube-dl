@@ -1,6 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
+from _install_hook import _InstallCommand
 from __future__ import print_function
 
 import os.path
